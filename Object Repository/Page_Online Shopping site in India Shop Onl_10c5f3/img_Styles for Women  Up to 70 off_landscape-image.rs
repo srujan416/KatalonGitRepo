@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Styles for Women  Up to 70 off_landscape-image</name>
+   <tag></tag>
+   <elementGuidId>41a313f6-f555-417b-b76d-8c6dc30e36d1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#UwE459011KZABT2B_Nud5g > div.a-cardui-body > div.a-section.a-spacing-small.grid-row-1 > div.a-section.a-spacing-none.quadrant-container.quadrant-container-0 > a.a-link-normal.image-redirect.aok-block.image-window > div.a-section.a-spacing-none.fluid-image-container > img.landscape-image</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='UwE459011KZABT2B_Nud5g']/div[2]/div/div/a/div/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Women's Clothing</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://images-eu.ssl-images-amazon.com/images/G/31/img21/Fashion/Gateway/Womens_Fashion/1._SY116_CB656506073_.jpg</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>landscape-image</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-a-hires</name>
+      <type>Main</type>
+      <value>https://images-eu.ssl-images-amazon.com/images/G/31/img21/Fashion/Gateway/Womens_Fashion/Layer_668._SY232_CB656506084_.jpg</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;UwE459011KZABT2B_Nud5g&quot;)/div[@class=&quot;a-cardui-body&quot;]/div[@class=&quot;a-section a-spacing-small grid-row-1&quot;]/div[@class=&quot;a-section a-spacing-none quadrant-container quadrant-container-0&quot;]/a[@class=&quot;a-link-normal image-redirect aok-block image-window&quot;]/div[@class=&quot;a-section a-spacing-none fluid-image-container&quot;]/img[@class=&quot;landscape-image&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='UwE459011KZABT2B_Nud5g']/div[2]/div/div/a/div/img</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt=&quot;Women's Clothing&quot;]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div[2]/div/div/a/div/img</value>
+   </webElementXpaths>
+</WebElementEntity>
